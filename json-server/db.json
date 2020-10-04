@@ -236,5 +236,106 @@
       "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
     }
   ],
-  "feedback": []
+  "feedback": [
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "123",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "ffsdsdf",
+      "id": 1
+    },
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "0112",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "sdddf",
+      "id": 2
+    },
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "0112",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "sdafsfs",
+      "id": 3
+    },
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "0112",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "sffdfgf",
+      "id": 4
+    },
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "0112",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "fggggg",
+      "id": 5
+    },
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "0112",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "",
+      "id": 6
+    },
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "0112",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "",
+      "id": 7
+    },
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "0112",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "",
+      "id": 8
+    },
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "0112",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "",
+      "id": 9
+    },
+    {
+      "firstname": "Sanyam",
+      "lastname": "Dhawan",
+      "telnum": "0112",
+      "email": "sanyamdhawan0001@gmail.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "",
+      "id": 10
+    }
+  ]
 }
